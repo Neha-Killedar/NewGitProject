@@ -22,6 +22,7 @@ public String findDuplicate (String input)throws NoSuchFieldException, SecurityE
 						duplicateCharater.add(achar);
 					}
 				}
+				System.out.println("Working good");
 				
 			}
 		}
