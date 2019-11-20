@@ -39,7 +39,7 @@ public String findDuplicate (String input)throws NoSuchFieldException, SecurityE
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		
+		System.out.println("Working properly");
 	}
 	}
 
